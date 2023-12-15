@@ -18,5 +18,6 @@ public class LoopsTest {
             System.out.println(i);
             i++;
         }while(i<=10);
+        
     }
 }
